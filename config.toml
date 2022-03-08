@@ -1,4 +1,4 @@
 baseURL = 'https://ilhamksyuriadi.github.io/'
 languageCode = 'en-us'
 title = 'Ilhams pages'
-theme = 'ananke'
+theme = 'PaperMod'
